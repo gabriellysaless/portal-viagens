@@ -1,0 +1,30 @@
+.header {
+    padding: 2.5rem;
+    background-color: #0F172A;
+    margin-bottom: 2rem;
+}
+
+.title{
+    margin-top: 10px;
+    font-size: 2.5rem;
+}
+
+.title a {
+    color: #F8FAFC;
+    text-decoration: none;
+}
+
+.nav {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav a {
+    margin-left: 15px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    color: #2e99c7;
+}
