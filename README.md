@@ -1,6 +1,6 @@
 # 🌍 Portal Viagens
 
-> **Projeto desenvolvido durante o módulo 22 de Next.js da EBAC e organizado em um repositório próprio para compor meu portfólio.**
+> **Projeto desenvolvido durante o módulo 22 de Next.js da EBAC e organizado em um repositório próprio.**
 
 Aplicação desenvolvida com **Next.js** para apresentar destinos turísticos, utilizando **rotas dinâmicas** e boas práticas de organização de projetos.
 
